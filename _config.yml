@@ -23,8 +23,9 @@ navbar-links:
   Home: "https://shoxa-mir.github.io"
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Ubuntu: "https://ubuntu.com/"
+    - Python: "https://python.org/"
+    - ROS: "https://ros.org/"
 
 
 ################
