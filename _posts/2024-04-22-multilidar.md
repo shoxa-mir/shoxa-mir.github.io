@@ -14,7 +14,7 @@ author: Shokhrukh Miraliev
 ---
 
 ### LiDAR Hardware Setup
-<table style="max-width: 30%;">
+<table style="max-width: 100%;">
     <tr>
         <th>Top view</th>
         <th>Side view</th>
