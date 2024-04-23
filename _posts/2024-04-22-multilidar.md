@@ -28,7 +28,7 @@ Leveraging Python and ROS Noetic, this solution enables seamless integration and
 </ol>
 
 **Usage:**
-******_(under preparation)_******
+<p><u><i><b>(under preparation)</b></i></u></p>
 <!--<ol></ol>-->
 
 This table illustrates the configuration of six Lidar sensors mounted on a truck, providing both top and side views for clarity. The setup aims to offer comprehensive environmental perception around the vehicle.
