@@ -26,14 +26,22 @@ author: Shokhrukh Miraliev
 </table>
 
 
-### LiDAR Range and FOV
+### LiDAR Range and FOV (Top)
 <table style="max-width: 100%;">
     <tr>
         <th>Top view</th>
-        <th>Side view</th>
     </tr>
     <tr>
         <td style="width: 50%;"><img src="/assets/img/multi_lidar_fusion_post/fig2/truck_w_range_top.svg" style="width: 100%;"></td>
+    </tr>
+</table>
+
+### LiDAR Range and FOV (Side)
+<table style="max-width: 100%;">
+    <tr>
+        <th>Side view</th>
+    </tr>
+    <tr>
         <td style="width: 50%;"><img src="/assets/img/multi_lidar_fusion_post/fig2/truck_w_range_side.svg" style="width: 100%;"></td>
     </tr>
 </table>
