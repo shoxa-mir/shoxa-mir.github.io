@@ -20,8 +20,21 @@ author: Shokhrukh Miraliev
         <th>Side view</th>
     </tr>
     <tr>
-        <td style="width: 50%;"><img src="/assets/img/multi_lidar_fusion_post/top_view_truck.png" style="width: 100%;"></td>
-        <td style="width: 50%;"><img src="/assets/img/multi_lidar_fusion_post/side_view_truck.png" style="width: 100%;"></td>
+        <td style="width: 50%;"><img src="/assets/img/multi_lidar_fusion_post/fig1/truck_w_lidar_top.svg" style="width: 100%;"></td>
+        <td style="width: 50%;"><img src="/assets/img/multi_lidar_fusion_post/fig1/truck_w_lidar_side.svg" style="width: 100%;"></td>
+    </tr>
+</table>
+
+
+### LiDAR Range and FOV
+<table style="max-width: 100%;">
+    <tr>
+        <th>Top view</th>
+        <th>Side view</th>
+    </tr>
+    <tr>
+        <td style="width: 50%;"><img src="/assets/img/multi_lidar_fusion_post/fig2/truck_w_range_top.svg" style="width: 100%;"></td>
+        <td style="width: 50%;"><img src="/assets/img/multi_lidar_fusion_post/fig2/truck_w_range_side.svg style="width: 100%;"></td>
     </tr>
 </table>
 
