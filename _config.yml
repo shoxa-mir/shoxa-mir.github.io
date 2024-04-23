@@ -53,11 +53,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "shoxamiraliyev@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: shoxa.miraliev
   github: shoxa-mir
   linkedin: shokhrukh-miraliev
   ORCID: 0009-0003-2995-561X
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
