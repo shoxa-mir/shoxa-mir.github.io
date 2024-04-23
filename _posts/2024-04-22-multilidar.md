@@ -16,6 +16,7 @@ author: Shokhrukh Miraliev
 {: .box-success}
 This repository provides a comprehensive framework for fusing data from multiple Lidar sensors while incorporating translations within the ROS (Robot Operating System) environment, specifically tailored for Ubuntu 20.04. 
 
+This table illustrates the configuration of six Lidar sensors mounted on a truck, providing both top and side views for clarity. The setup aims to offer comprehensive environmental perception around the vehicle.
 ### LiDAR Hardware Setup
 <table style="max-width: 100%;">
     <tr>
@@ -27,6 +28,7 @@ This repository provides a comprehensive framework for fusing data from multiple
         <td style="width: 50%;"><img src="/assets/img/multi_lidar_fusion_post/fig1/truck_w_lidar_side.svg" style="width: 100%;"></td>
     </tr>
 </table>
+This setup ensures comprehensive coverage around the truck, enabling robust detection and avoidance of obstacles from various angles. The combination of front, side, and corner-mounted Lidar sensors enhances the vehicle's perception capabilities, contributing to safer navigation in diverse environments.
 
 Leveraging Python and ROS Noetic, this solution enables seamless integration and synchronization of data streams from multiple Lidar sensors, enhancing perception capabilities for robotics applications.
 
